@@ -5,7 +5,10 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 <h1>Hello world! UPDATE LOCAL BRANCH UPDATE MADE ON LOCAL BRANCH</h1>
+=======
+>>>>>>> ab8f93cc43e88edf2d0f07f96f27ff21ab3b9c27
 <h2>Welcome to this wonderful world</h2>
 <p>This is the first file in my new Git Repo.</p>
 
