@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Hello world! UPDATE LOCAL BRANCH</h1>
+<h1>Hello world! UPDATE LOCAL BRANCH MADE UPDATE IN REMOTE BRANCH</h1>
 <h2>Welcome to this wonderful world</h2>
 <p>This is the first file in my new Git Repo.</p>
 
