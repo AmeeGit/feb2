@@ -11,6 +11,7 @@
 >>>>>>> ab8f93cc43e88edf2d0f07f96f27ff21ab3b9c27
 =======
 <h1>Hello world!  LOCAL</h1>
+<h1>Hello world!  file changes LOCAL</h1>
 >>>>>>>
 <h2>Welcome to this wonderful world</h2>
 <p>This is the first file in my new Git Repo.</p>
